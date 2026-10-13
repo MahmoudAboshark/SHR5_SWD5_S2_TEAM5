@@ -1,0 +1,29 @@
+## Build results / Output directories
+[Bb]in/
+[Ob]j/
+out/
+[Ll]og/
+[Ll]ogs/
+[bin/]
+[obj/]
+*.cache
+## User-specific files and IDE configurations
+*.user
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+/xml
+
+
+## OS generated files
+.DS_Store
+Thumbs.db
